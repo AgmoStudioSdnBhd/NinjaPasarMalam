@@ -1,0 +1,143 @@
+{
+  "pasarmalam" : [ {
+    "desc" : "If you have been to Petaling Jaya area, mainly SS2 area or you’re actually living nearby, you may be aware of the night market that is held here every Monday. Available for visit around 6pm-10pm, the night market is considered the biggest night market in Petaling Jaya area as its length spans on entire round of SS2’s commercial centre. Furthermore, the night market goes around the block, making a big round, surrounding a food court and car park lot.",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/pasar-malam-locator.appspot.com/o/images%2Fss2.jpg?alt=media&token=cad9dda9-8a30-4572-affd-52f3dd544f07",
+    "latitude" : 3.114435,
+    "longitude" : 101.620145,
+    "name" : "SS2 Night Market (Pasar Malam)",
+    "hours" : "Mon, 5.00pm - 11.00pm"
+  }, {
+    "desc" : "Section 17 residents have long endured a love-hate relationship with this bustling, sprawling farmer’s market – the rush hour traffic congestion that arises from errant parking has been plaguing the neighbourhood since the market first opened for business more than 20 years ago.",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/pasar-malam-locator.appspot.com/o/images%2Fsec17.jpg?alt=media&token=725d77f4-f7ec-4695-bd25-e0ee63e1d045",
+    "latitude" : 3.119803,
+    "longitude" : 101.636449,
+    "name" : "Pasar Malam Seksyen 17",
+    "hours" : "Tue, 4.00pm - 9.00pm"
+  }, {
+    "desc" : "One of the biggest and the best night markets in the Kuala Lumpur region is held every thursday night in OUG (Old Klang Road). Mostly Chinese stall holders. Ethnic Malays tend to stay away “because got pork lah!” Definitely worth a visit. A taxi from the centre of KL costs around 10 ringgit for a 15-20 minute ride. ",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/pasar-malam-locator.appspot.com/o/images%2Foug.jpg?alt=media&token=d1db2236-d431-4301-abd3-594487b4195a",
+    "latitude" : 3.073857,
+    "longitude" : 101.672591,
+    "name" : "OUG Pasar Malam",
+    "hours" : "Thu, 5.00pm - 11.00pm"
+  }, {
+    "desc" : "A pasar malam is a street market in Malaysia that opens in the evening, usually in residential neighbourhoods.There was so much fantastic food on offer, along with great fruit and vegetables and fantastically fresh meat and fresh. Everyone was so friendly.",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/pasar-malam-locator.appspot.com/o/images%2Fttdi.jpg?alt=media&token=9e6dfc85-942d-4ee9-8dd3-65440dfeae4f",
+    "latitude" : 3.141477,
+    "longitude" : 101.628389,
+    "name" : "Pasar Malam TTDI",
+    "hours" : "Sun, 4.00pm - 11.00pm"
+  }, {
+    "desc" : "At 2.4km-long, the Setia Alam pasar malam was named as the longest pasar malam in the 2011 Malaysian Book of Records. Every Saturday night, the stretch of road is filled with stalls selling every thing imaginable from car accessories to pet bunnies. The lure of the Setia Alam pasar malam is the array of foods that you would not usually find in a normal night market. The first half of the market is filled with Malay food while the second half is full of Chinese, Tawainese, Thai, Japanese and other exotic snacks that you would only expect to find in a shopping mall. Here are 10 of the foods at Setia Alam pasar malam that may catch your attention.",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/pasar-malam-locator.appspot.com/o/images%2Fsetiaalam.jpg?alt=media&token=b935c349-abc6-47eb-815e-374a6d2f11f3",
+    "latitude" : 3.1004384,
+    "longitude" : 101.4431252,
+    "name" : "Setia Alam Pasar Malam",
+    "hours" : "Sat, 6.00pm - 10.00pm"
+  }, {
+    "desc" : "Nice laksa and nasi briyani ayam rempah! A street market in Jalan Tunku Abdul Rahman and Jalan Masjid India that only happens on Saturday from 10am onwards. Here you can see a wide variety of dishes - from Malay food like satay and grilled fish through to western food such as chicken chops and pizza sold by more than 400 hawkers this city.",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/pasar-malam-locator.appspot.com/o/images%2Ftar.jpg?alt=media&token=fc5020c5-89f1-43cc-b3c7-67b955debadc",
+    "latitude" : 3.154333,
+    "longitude" : 101.696934,
+    "name" : "Pasar Malam Jalan Tuanku Abdul Rahman",
+    "hours" : "Fri,Sat,Sun, 4.00pm - 11.00pm"
+  }, {
+    "desc" : "Taman Connaught Pasar Malam is one of the longest night markets in Malaysia with more than 700 stalls spanning over 2 kilometres, making it a must-visit. This night market which is located in Cheras, is held every Wednesday from evening until late night.",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/pasar-malam-locator.appspot.com/o/images%2Fconnaught3.jpg?alt=media&token=1e24405a-c92b-444b-8608-9511826fc1cc",
+    "latitude" : 3.081568,
+    "longitude" : 101.73539,
+    "name" : "Pasar Malam Taman Connaught",
+    "hours" : "Wed, 6.00pm - 1.00am"
+  }, {
+    "desc" : "Bangsar Baru's night market is one of many examples of how a pasar malam survives in a rapidly developing city. Hundreds of Bangsar residents and tourists flock to this night market weekly, to buy groceries, have a meal or simply soak in the colourful atmosphere. They have yummy Otak-otak, Chee Cheong Fun & Carrot Cake",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/pasar-malam-locator.appspot.com/o/images%2Fbangsar2.jpg?alt=media&token=ac1e47e3-81a8-4e62-ada5-790ca8799a2c",
+    "latitude" : 3.130603,
+    "longitude" : 101.672214,
+    "name" : "Pasar Malam Bangsar",
+    "hours" : "Sun, 4.00pm - 11.00pm"
+  }, {
+    "desc" : "Sunday - Situated around Ming Tien food court, this pasar malam is not as packed as the pasar malam in SS2. At here, you can have an enjoyable walk at your own pace while enjoying food like char kuey teow, char kuih kak, BBQ oyster and cakes. The stalls are set up at 5 P.M. and they close around 10 P.M. Some of the recommended food by hungrygowhere.my are Only One Nyonya Rice, Cheras giant pau and UCO cakes.",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/pasar-malam-locator.appspot.com/o/images%2Ftmnmegah.jpeg?alt=media&token=ba4318ca-d629-4f4c-bbeb-9c3683162bbf",
+    "latitude" : 3.1141084,
+    "longitude" : 101.703554,
+    "name" : "Pasar Malam Taman Megah",
+    "hours" : "Sun, 5.00pm - 10.00pm"
+  }, {
+    "desc" : "Street market with a collection of food stalls that opens in the evening or morning in the residential living area. Night market with fresh produces, and street food from different ethnic groups are very common among locals. Good for a great value meal.",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/pasar-malam-locator.appspot.com/o/images%2Fpandanjaya.jpg?alt=media&token=68f027d8-36e8-4ccb-a9b7-c6ac908dd4e7",
+    "latitude" : 3.134732,
+    "longitude" : 101.740946,
+    "name" : "Pasar Malam Pandan Jaya",
+    "hours" : "Tue,Sat, 5.00pm - 10.30pm"
+  }, {
+    "desc" : "The best night market in Penang! Widely popular among the locals, enjoy local favourites like char koay kak, Japanese crepe (choose between sweet or savoury fillings), lok-lok and more. Penangites throng by the hundreds to this Wednesday night market, so expect a lot of shoulder-rubbing as you walk through it. Try their Bacon Enoki, Belacan Fried Chicken, Kerabu Bihun, and Laksa",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/pasar-malam-locator.appspot.com/o/images%2Ffarlim3.jpg?alt=media&token=a624b894-af4e-4268-b712-5de8864dd69e",
+    "latitude" : 5.389871,
+    "longitude" : 100.283077,
+    "name" : "Farlim Wednesday Night Flea Market",
+    "hours" : "Wed, 5.00pm - 11.00pm"
+  }, {
+    "desc" : "They have a good range of cheap fashion and a huge variety of street food. All street food stall vans will park along the road side. the price they quote is usually the best selling price and it is pretty cheap. You may try their Tiffany blue color bowl Yong Tau Fu, Asam Laksa, Takoyaki and Tau Fu Fa.",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/pasar-malam-locator.appspot.com/o/images%2Fjelutong2.jpg?alt=media&token=76a81ae0-0ad0-47ce-90b1-20f86676e80a",
+    "latitude" : 5.3969136,
+    "longitude" : 100.3129368,
+    "name" : "Jelutong Friday Night Market",
+    "hours" : "Fri, 5.00pm - 11.00pm"
+  }, {
+    "desc" : "The night market is good fun. Don't take all the offers too seriously and appreciate that most of what you will buy is junk that won't last long. The hawkers are enthusiastic sales people working hard to scratch a living so little point in haggling over every last dollar but you need to bargain to make it fun. There's something here for everyone and if you hate these sorts of markets don't come to this part of Penang because you really can't avoid it and then you become the grumpy tourist that other people tell there friends they saw whilst they were on holidays! Nasi kerabu is one of the best in Kepala Batas. The sup daging and yong tau foo at the far end corner is recommended.",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/pasar-malam-locator.appspot.com/o/images%2Fkepalabatas.jpg?alt=media&token=3ac00435-73c2-4de2-a908-3bd98fc4d186",
+    "latitude" : 5.5173921,
+    "longitude" : 100.4265056,
+    "name" : "Kepala Batas Night Flea Market",
+    "hours" : "Everyday except Thu, 5.00pm - 11.00pm"
+  }, {
+    "desc" : "This market is a Monday night maze of street food, cheap clothes, accessories and home necessities. If you're at Macallum for a grab-and-go dinner, rest easy on their grilled satays, pickled nutmegs, char kuoy kak, yong tau foo, lor bak, bubble teas and more. Otherwise, there's always t-shirts, cute bangles, handphone covers and shoes to splurge on. Highly recommended Belacan fried chicken, Tomyam beehon and Laksa!",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/pasar-malam-locator.appspot.com/o/images%2Fmacallum.jpg?alt=media&token=43408a3e-6f47-4951-8a9e-2b0c2f4d5b8e",
+    "latitude" : 5.4062979,
+    "longitude" : 100.3323986,
+    "name" : "Macallum Monday Night Market",
+    "hours" : "Mon, 5.00pm - 12.00am"
+  }, {
+    "desc" : "Night Markets have been around for decades in Malaysia, otherwise known as Pasar Malams, they are frequented by locals who visit these markets found all over the country. Some may even ask where are the best night markets to visit in Malaysia and this article will shed some light based on personal experiences to these markets. Not plucked from the internet like how most list postings are done too. Many choice n cheap Malay food can be found here...",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/pasar-malam-locator.appspot.com/o/images%2Fkgmelayu.jpg?alt=media&token=b06d99d5-f72e-4462-b3ff-fa93d2aeaf69",
+    "latitude" : 5.399449,
+    "longitude" : 100.2852943,
+    "name" : "Kampung Melayu Monday Night Flea Market",
+    "hours" : "Mon, 6.00pm - 1.00am"
+  }, {
+    "desc" : "There are many Night Markets, or Pasar Malam, throughout Penang Island. They are a fun place to stroll around in the evening. There are usually a night market happening somewhere on almost every night of the week. They serve the needs of the surrounding community. What you can expect on sale there are low-cost merchandise of daily usage, such as cheap clothes, kitchen utensils, personal grooming products, and other bric-a-brac. In addition for the merchandise, there is usually hawker stalls selling food. You can buy all types of hawker food, some of which you can eat then and there, while others are packed for you to eat at home. Among them are all the Penang hawker food. Try their Homemade Pork Burger, Pandan Cake and Cucur Udang",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/pasar-malam-locator.appspot.com/o/images%2Fpantaijerjak.jpg?alt=media&token=ca1c2622-50f3-4067-8523-9eb10664e947",
+    "latitude" : 5.3402262,
+    "longitude" : 100.3035062,
+    "name" : "Pantai Jerjak Night Market",
+    "hours" : "Wed, 5.00pm - 11.00pm"
+  }, {
+    "desc" : "Thousands of predominantly Saudi, Australian, British and Malaysian tourists will run the gauntlet of marketers and spruikers, selling everything from ladies handbags and watches to lamp shades and bootleg movies. If you look carefully and bargain hard there are definitely deals to be had. There are plenty of food stalls and restaurants for the hungry such as Duck Rice, Yong Tao Fu, Lobak and Fried Mushroom",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/pasar-malam-locator.appspot.com/o/images%2Ftheantek.jpg?alt=media&token=4f3f85b6-7319-46b3-8627-8a853495c2e8",
+    "latitude" : 5.3991495,
+    "longitude" : 100.289562,
+    "name" : "Thean Tek Thursday Night Flea Market",
+    "hours" : "Thu, 5.00pm - 11.00pm"
+  }, {
+    "desc" : "The Sungai Ara Market is a community wet market at the junction of Jalan Sungai Ara (now called Jalan Dato Ismail Hashim) and Jalan Tengah. It served the village of Sungai Ara which has all but disappeared under the development of the housing estate of Taman Sungai Ara. The market is a place for the housewives of the housing estate to get their fresh produce, an alternative to the bigger Bayan Baru Market a distance away.",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/pasar-malam-locator.appspot.com/o/images%2Fsgara.jpg?alt=media&token=8b9336b2-c4ed-41a8-83ad-95bc4958a863",
+    "latitude" : 5.3247441,
+    "longitude" : 100.274278,
+    "name" : "Sungai Ara Night Flea Market",
+    "hours" : "Fri, 4.00pm - 11.00am"
+  }, {
+    "desc" : "There are many Night Markets, or Pasar Malam, throughout Penang Island. There are usually a night market happening somewhere on almost every night of the week. What you can expect on sale there are low-cost merchandise of daily usage, such as cheap clothes, kitchen utensils, and personal grooming products. Try out their delicious Fried Mushroom and Apam Balik",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/pasar-malam-locator.appspot.com/o/images%2Ftasekgelugor.jpg?alt=media&token=57ac7269-fbe6-4e1a-9cd7-87ddb7fc700c",
+    "latitude" : 5.4825039,
+    "longitude" : 100.4911709,
+    "name" : "Pasar Malam Tasek Gelugor",
+    "hours" : "Thu, 6.00pm - 1.00am"
+  }, {
+    "desc" : "There are many Night Markets, or Pasar Malam, throughout Penang Island. They are a fun place to stroll around in the evening. There are usually a night market happening somewhere on almost every night of the week. They serve the needs of the surrounding community. What you can expect on sale there are low-cost merchandise of daily usage, such as cheap clothes, kitchen utensils, personal grooming products, and other bric-a-brac. In addition for the merchandise, there is usually hawker stalls selling food. You can buy all types of hawker food, some of which you can eat then and there, while others are packed for you to eat at home. Among them are all the Penang hawker food.",
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/pasar-malam-locator.appspot.com/o/images%2Fsungaidua.jpg?alt=media&token=8af9a9b5-d5c1-4fc6-9133-f6dc8a423e7c",
+    "latitude" : 5.3507567,
+    "longitude" : 100.2978241,
+    "name" : "Pasar Malam Sungai Dua",
+    "hours" : "Sat, 5.00pm - 12.00am"
+  } ]
+}
