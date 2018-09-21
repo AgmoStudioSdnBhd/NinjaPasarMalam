@@ -12,19 +12,19 @@ This section requires a valid Google account and Google Maps app installed on yo
 
 3. At the top right side of the website, click on "Console" beside your profile picture.
 
-4. If you have multiple project, you can switch your project at the dropdown on the top left in the AppBar. Select the *Pasar Malam Locator* project that you had created in Firebase Console.
+4. If you have multiple project, you can switch your project at the dropdown on the top left in the AppBar. Select the *Pasar Malam* project that you had created in Firebase Console.
 
 5. Click on the hamburger menu (3 lines) at the top left to open the side navigation drawer  
-  ![Cloud Console](https://github.com/AgmoStudioSdnBhd/Android-Pasar-Malam-Locator/raw/master/art/side_nav.jpg)
+  ![Cloud Console](https://github.com/AgmoStudioSdnBhd/NinjaPasarMalam/raw/master/art/side_nav.jpg)
 
-6. Click on the 2nd item **API MANAGER**
+6. Click on the **APIs & Services** > **Library**
 
-7. At the side menu of API MANAGER, click on the 2nd item **Library**  
-  ![Enable Maps](https://github.com/AgmoStudioSdnBhd/Android-Pasar-Malam-Locator/raw/master/art/maps_api.jpg)
+7. You will see the API Library webpage
+  ![Enable Maps](https://github.com/AgmoStudioSdnBhd/NinjaPasarMalam/raw/master/art/maps_api.jpg)
 
-8. Look for "*Google Maps Android API*" and click it.
+8. Look for "*Maps SDK for Android*" and click it.
 
-9. Click "Enable" at the top.
+9. Click "Enable" button.
 
 ## Google Maps in your app
 

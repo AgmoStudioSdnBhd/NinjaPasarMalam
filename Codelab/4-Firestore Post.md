@@ -12,7 +12,6 @@
           android:title="Suggest"
           app:showAsAction="always" />
   </menu>
-  }
   ```
 
 2. Open `MainActivity.java`

@@ -14,26 +14,11 @@
 
 ## Adding Firebase Database
 
-> Manual way
-- add `implementation 'com.google.firebase:firebase-firestore:11.0.4'` to your dependencies in your app/build.gradle
-- Ensure you have `apply plugin: 'com.google.gms.google-services'` at the end of your app/build.gradle file
-- Ensure you have added `classpath 'com.google.gms:google-services:3.1.0'` in the project level build.gradle
-
 1. Open the Firebase Assistant side menu or via **Tools** > **Firebase**
 
-2. Select **Realtime Database** > **Save and retrieve data**.
+2. Select **Firestore** > **Read and write documents with Cloud Firestore**.
 
 3. Click on Step 1 (Connect to Firebase) and Step 2 button (Add the realtime database to your app)
-
-4. Remove the added firebase-database from `build.gradle` file and add firestore.
-
-```gradle
-dependencies {
-
-//    implementation 'com.google.firebase:firebase-database:11.0.4'
-    implementation 'com.google.firebase:firebase-firestore:11.4.2'
-}
-```
 
 ## PasarMalam model
 
