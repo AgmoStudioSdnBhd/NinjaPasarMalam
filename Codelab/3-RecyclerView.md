@@ -6,8 +6,8 @@
   ```java
   dependencies {
       // ...
-      implementation 'com.android.support:recyclerview-v7:26.1.0'
-      implementation 'com.firebaseui:firebase-ui-firestore:3.1.0'
+      implementation 'com.android.support:recyclerview-v7:28.0.0-rc02'
+      implementation 'com.firebaseui:firebase-ui-firestore:4.2.0'
   }
   ```
 1. The layout of your `activity_main.xml` will now be a row. Create a file called `list_item.xml` and copy the layout over.
