@@ -8,7 +8,7 @@
 
 3. Select Firestore
 
-4. Pick one Pasar Malam from this set of data. https://github.com/AgmoStudioSdnBhd/Firebase-Pasar-Malam-Locator/raw/master/Database/pasar-malam-locator-export.json
+4. Pick one Pasar Malam from this set of data. https://github.com/AgmoStudioSdnBhd/NinjaPasarMalam/raw/master/database/pasar-malam-locator-export.json
 
 5. Create the Collection `pasarmalam` and the Document
 
@@ -85,9 +85,9 @@
 
 ## Displaying to UI
 
-1. Open activity_main.xml
+1. Open `activity_main.xml`
 
-2. Update your UI to have 2 TextView to display the Name and Operating Hours.
+2. Add 2 TextView to display the Name and Operating Hours.
 
   ```xml
   <?xml version="1.0" encoding="utf-8"?>
@@ -128,7 +128,7 @@
     }
   ```
 
-4. In the Firestore OnCompleteListener, display the info to the `TextView`
+4. In the Firestore `OnCompleteListener`, display the info to the `TextView`
   ```java
   if (task.isSuccessful()) {
       for (DocumentSnapshot document : task.getResult()) {
