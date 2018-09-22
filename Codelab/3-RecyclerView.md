@@ -6,7 +6,7 @@
   ```java
   dependencies {
       // ...
-      implementation 'com.android.support:recyclerview-v7:28.0.0-rc02'
+      implementation 'com.android.support:recyclerview-v7:28.0.0'
       implementation 'com.firebaseui:firebase-ui-firestore:4.2.0'
   }
   ```
